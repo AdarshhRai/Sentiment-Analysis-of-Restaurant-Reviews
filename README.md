@@ -1,1 +1,2 @@
 # Sentiment-Analysis-of-Restaurant-Reviews
+Develop a sentiment analysis system to automatically analyse and classify restaurant reviews into positive and negative sentiments based on the textual content of the reviews. The objective is to assist restaurant owners and potential customers in understanding the overall sentiment and quality of dining experiences, thereby enabling data-driven decision-making for both consumers and businesses in the food industry.
